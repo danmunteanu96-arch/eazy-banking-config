@@ -4,7 +4,7 @@ accounts:
   message: "Accounts service is available in Production"
   contactDetails:
     phone: "+1-555-0123"
-    email: "support@eazy.com"
+    email: "5d7b3958647d4503a7a351434132943bfe0d51d8a292b3452b2b2cd2c56b7a0a3ceb852713fb4d61dbafde4dc95f3613"
   onCallSupport:
     - "team-a"
     - "team-b"
